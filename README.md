@@ -2,7 +2,9 @@
 
 A web-based translation application powered by Google's TranslateGemma model, running entirely in your browser with Transformers.js and ONNX Runtime Web.
 
+
 ## ✨ Features
+
 
 - 🌍 **56 Languages** - Translate between 56 different languages
 - 🔒 **Completely Private** - All processing happens in your browser, no data sent to servers
@@ -12,7 +14,9 @@ A web-based translation application powered by Google's TranslateGemma model, ru
 - 📱 **Mobile Responsive** - Optimized for both desktop and mobile devices
 - 💾 **Local Caching** - Model cached locally for instant subsequent loads
 
+
 ## 🤖 TranslateGemma
+
 
 This application uses [Google's TranslateGemma](https://blog.google/technology/developers/gemma-open-models/), a state-of-the-art language model specifically designed for translation tasks. TranslateGemma is part of Google's Gemma family of open models, delivering high-quality translations across 56 languages directly in your browser using [Transformers.js](https://huggingface.co/docs/transformers.js) and ONNX Runtime Web.
 
