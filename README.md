@@ -18,7 +18,7 @@ A web-based translation application powered by Google's TranslateGemma model, ru
 ## 🤖 TranslateGemma
 
 
-This application uses [Google's TranslateGemma](https://blog.google/technology/developers/gemma-open-models/), a state-of-the-art language model specifically designed for translation tasks. TranslateGemma is part of Google's Gemma family of open models, delivering high-quality translations across 56 languages directly in your browser using [Transformers.js](https://huggingface.co/docs/transformers.js) and ONNX Runtime Web.
+This application uses [Google's TranslateGemma](https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/), a state-of-the-art language model specifically designed for translation tasks. TranslateGemma is part of Google's Gemma family of open models, delivering high-quality translations across 56 languages directly in your browser using [Transformers.js](https://huggingface.co/docs/transformers.js) and ONNX Runtime Web.
 
 ## 🔒 Completely Private & Offline-Capable
 
